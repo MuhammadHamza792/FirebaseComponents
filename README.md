@@ -21,3 +21,14 @@ then you can use these addresses and crearte/update your data at any point in th
 ### Analytics:
 
 Handles Score, Level, Tutorail, login, purchase events etc. You can also add custom events.
+
+### Unity Notifications:
+
+You can configure unity notifications either from inspector or through code.
+
+![image](https://github.com/user-attachments/assets/d33752db-96f6-4032-a0c4-f7de896287cb)
+![image](https://github.com/user-attachments/assets/0d267d10-ca84-4be6-9d7d-b3bdf6b3e348)
+
+![image](https://github.com/user-attachments/assets/bc82d13c-aa41-4452-8338-f51eb4b19bf6)
+
+
